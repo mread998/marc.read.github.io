@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Howdy, my name's Marc and I'm results driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
+  Howdy,my name's Marc and I'm results driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
 
 content:
   # - title: Projects # Title for the section
@@ -89,6 +89,28 @@ content:
           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership
+
+    content:
+      - layout: left
+        title: Cognosante, Falls Church, Virgina – 
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: DevOps IV / XO Manager
+        caption: March 2023 - Present
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Promoted to XO (backup manger) of the DevSecOps team for Cognosante’s U.S. Department of Veterans Affairs contract. 
+          - Produced Weekly Activity Report (WAR) report; sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
+          - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
+          - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
+          - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
+          - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
+          - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership
+
+
+
+
 
 
   - title: Education # Title for the section
