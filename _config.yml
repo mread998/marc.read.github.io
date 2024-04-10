@@ -171,7 +171,53 @@ content:
            - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
            - Effective communication and collaboration skills.
 
-            
+      - title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Cloud Sites Linux Administrator
+        caption: June 2011 - June 2013
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Managed and maintained multi-tenant web hosting environments, including configuration, monitoring, and performance optimization.
+           - Assisted customers with the use of the Rackspace Cloud Sites offering and assisted with helping them understand its limitations and strengths.
+           - Provisioned and deployed web services for multiple tenants, ensuring compatibility, security, and performance.
+           - Implemented and enforced security measures to protect tenant data and mitigate security risks, including access controls, encryption, and vulnerability assessments.
+           - Monitored system performance and resource utilization, identifying and resolving bottlenecks to ensure high availability and optimal performance for all tenants.
+           - Collaborated with cross-functional teams to implement new features, enhancements, and infrastructure upgrades to meet evolving tenant needs.
+           - Assisted with data migration from one enviroment to another using open-source technology.
+           - Developed bash scripts to gather information regarding size, scope, secuirty of customer files, backup and search for security threats.
+
+      - title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Email Support Speciliist II
+        caption: July 2008 - June 2011
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Educated end user support on the inner workings of a large hybrid cloud email provider.
+           - Assisted with desktop service setup of mailboxes in a variety of different email clients.
+           - Troubleshoot a plethora of email related issues from calendar sharing, blackberry sync, DNS to mailbox corruption.
+           - Assisted customer with migration of mailbox data to ensure there was no missed data.
+           - Configured Multi domain routing for seamless email delivery across many different email systems.
+           - Was a point of escalation for junior specialists and provided mentoring and training based on the needs of the support floor. 
+           - Configured an troubleshoot mobile devices including Blackberry, iphone, and Android devices.
+
+      - title: Wells Fargo Financial
+        # link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Technical Support Speciliist II
+        caption: July 2008 - June 2011
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Desktop support of Windows based systems incluindg mailbox management, software install, and patching verification.
+           - Deploy, Troubleshoot, patch, install, legacy and systems.
+           - Worked with third party technicians on standard branch layout, and legacy system configuration.
+
+
+
       # - title: Prodigy
       #   link: https://www.prodigyr.com/
       #   # link_text: boringcompany.com
