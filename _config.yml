@@ -120,7 +120,7 @@ content:
       #      - Reallocated blocks block of BYOIP addresses from single environment into secondary environment within the scheduled maintenance windows with zero customer impact.
       #      - Managed the pivoting of events logs from a SAAS Splunk solution to a on-prem stack. Solution resulted in using ELK based logstash solution pipelines to send events into HEC connection.
       #      - Re-deployed the current development environment nestled into production account to make it mimic more like production environments and incorporating BYOIP addressing.
-           - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
+  #         - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
 #           - Continued the day-to-day operations of the telehealth video conferencing systems. Monitoring alerts, logs, and cost of environments.
       # - layout: left
       #   title: Prodigy
