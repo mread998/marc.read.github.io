@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Marc Read
-title: XO Manager and DevOps Engineenr IV
-email: marcread@gmail.com
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: facespics
-#github_username:  sproogen
+twitter_username: facespics
+github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-#instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,11 +47,10 @@ darkmode: false
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: 
-  Howdy, my name is Marc.  I'm a Results driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in <mark>AWS</mark> and I have <mark>High Public Trust Clearance</mark> with experaince in the following <mark>Systems Administration</mark>, <mark>DevOps</mark>, <mark>Scrum Master</mark>, <mark>Instructor/Teacher</mark>, <mark>Linux System Administrator</mark>, <mark>Cloud Administrator</mark>, <mark>Terraform</mark>, <mark>CloudFormation</mark>, <mark>OpenStack Heat</mark>, <mark>Github</mark>, <mark>Ansible</mark>, <mark>CI/CD Pipeline</mark>, <mark>Blue Green Deployment</mark>, <mark>Jenkins</mark>, <mark>Docker </mark>, <mark>Docker Compose</mark>, <mark>Kubernetes </mark>, <mark>Version Control</mark>, <mark>Scrum Master</mark>, <mark>Agility.io</mark>, <mark> AWS Cloud </mark>, <mark>EC2</mark>,  <mark>RDS</mark>,  <mark>S3</mark>,  <mark>CloudWatch</mark>,  <mark>VPC</mark>,  <mark>Auto Scaling Groups</mark>,  <mark>EC2 Templates</mark>,  <mark>Code Deploy</mark>,  <mark>CloudTrail</mark>,  <mark>Application Load Balancer</mark>,  <mark>Network Load Balancer</mark>,  <mark>BYOIP / IPAM</mark>, <mark>Linux Amazon/RHEL/Debian</mark>, <mark>ELK Stack</mark>,  <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>,  <mark>Splunk</mark>,  <mark>Bash</mark>,  <mark>Crony</mark>,  <mark>Firewalld</mark>, <mark>UFW</mark>,  <mark>IPTables</mark>, <mark>Systemd</mark>,  <mark>SystemV</mark>,  <mark>Apache</mark>,  <mark>Nginx</mark>,  <mark>PHP</mark>,  <mark>Nodejs</mark>, <mark>Mysql</mark>,  <mark>Postgresql</mark>,  <mark>Lsync</mark>,  <mark>MariaDB</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>NFS</mark>,  <mark>Samaba</mark>,  <mark>Varnish</mark>, <mark>Redis</mark>, <mark>Memcached</mark>,  <mark>Webmin</mark>,  <mark>Cpanel</mark>,  <mark>Plesk</mark>, and <mark>Rackspace Public Cloud</mark>.
-
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -77,81 +76,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Cognosante
-        link: https://cognosante.com/
+        title: The Boring Company
+        link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: DevOpe Engineer IV & XO Manager
-        caption: March 2023 - Present
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-        After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-      # - layout: left
-      #  -title: Cognosante
-      #   link: https://cognosante.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: AWS Linux Cloud Admin
-      #   caption: January 2022 - March 2023
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #     Wokring as a contractor on the Care Project, I was offered a full time role being the the technical lead.   
-      #      - Maintained 120+ AWS cloud infrastructure with terraform, and github with CodeQL
-      #      - Deployed 2nd telehealth video conference platform in AWS bringing the total number of managed instances to 250.
-      #      - Reallocated blocks block of BYOIP addresses from single environment into secondary environment within the scheduled maintenance windows with zero customer impact.
-      #      - Managed the pivoting of events logs from a SAAS Splunk solution to a on-prem stack. Solution resulted in using ELK based logstash solution pipelines to send events into HEC connection.
-      #      - Re-deployed the current development environment nestled into production account to make it mimic more like production environments and incorporating BYOIP addressing.
-      #      - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
-      #      - Continued the day-to-day operations of the telehealth video conferencing systems. Monitoring alerts, logs, and cost of environments.
-      # - layout: left
-      #   title: Prodigy
-      #   link: https://www.prodigyr.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: AWS Linux Cloud Admin
-      #   caption: August 2021 - Jan 2022
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #   After spending 14 years at Rackspace in serveral roles I took a chance taking a contract to hire postion working as a sub-contractor for Cognosante.
-      #      - Obtained high public trust security clearance and passed DOD background investigation.
-      #      - Provided billable technical services for Cognosante contract with the Veteran Administration.
-      #      - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
-      #      - Implement and administer AWS cloud infrastructure. 
-      #      - Manage and provision AWS resources as required by engineering teams. 
-      #      - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
-      # - layout: left
-      #   title: Rackspace
-      #   link: https://www.rackspace.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: AWS Cloud Engineer II
-      #   caption: September 2017 - August 2021
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #   After spending 14 years at Rackspace in serveral roles I took a chance taking a contract to hire postion working as a sub-contractor for Cognosante.
-      #      - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
-      #      - Implemented security best practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
-      #      - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
-      #      - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
-      #      - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
-      #      - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
-      #      - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
-      #      - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
-      #      - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
-      #      - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
-      #      - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
-      #      - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
-      #      - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
-      #      - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
-      #      - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
-      #      - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
-
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
