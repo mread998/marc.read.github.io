@@ -95,8 +95,8 @@ content:
       - title: Cognosante
         link: https://cognosante.com/
         # link_text: boringcompany.com
-        sub_title: DevOpe Engineer IV & XO Manager
-        caption: March 2023 - Present
+        sub_title: AWS Linux Administrator
+        caption: January 2022 - March 2023
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
@@ -108,37 +108,46 @@ content:
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
       
-      - title: Cognosante
-        link: https://cognosante.com/
+      - title: Prodigy
+        link: https://www.prodigyr.com/
         # link_text: boringcompany.com
-        sub_title: DevOpe Engineer IV & XO Manager
+        sub_title: AWS Linux Administrator
+        caption: August 2021 Jan 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Obtained high public trust security clearance and passed DOD background investigation.
+           - Provided billable technical services for Cognosante contract with the Veteran Administration.
+           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
+           - Implement and administer AWS cloud infrastructure. 
+           - Manage and provision AWS resources as required by engineering teams. 
+           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
+
+      - title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Cloud Engineer II
         caption: March 2023 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-      
-      - title: Cognosante
-        link: https://cognosante.com/
-        # link_text: boringcompany.com
-        sub_title: DevOpe Engineer IV & XO Manager
-        caption: March 2023 - Present
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: |
-           - After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
+           - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
+           - Implemented security best practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
+           - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
+           - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+           - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
+           - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
+           - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
+           - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
+           - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
+           - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
+           - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
+           - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
+           - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
+           - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
+           - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
+           - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
+ 
 
       - title: Cognosante
         link: https://cognosante.com/
