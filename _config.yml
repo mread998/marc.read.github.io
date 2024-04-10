@@ -83,8 +83,7 @@ content:
         caption: March 2023 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-        After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
+        description: After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
            - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
            - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
            - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
