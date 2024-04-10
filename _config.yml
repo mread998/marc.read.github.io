@@ -79,14 +79,14 @@ content:
     content:
       - layout: left
         title: Cognosante
-        link: boringcompany.com
+        link: https://cognosante.com/
         # link_text: boringcompany.com
         sub_title: DevOpe Engineer IV & XO Manager
-        caption: March 2022 - Present
+        caption: March 2023 - Present
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-           - Promoted to XO (backup manger) of the DevSecOps team for Cognosante’s U.S. Department of Veterans Affairs contract. 
+        After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
            - Produced Weekly Activity Report (WAR) report; sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
            - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
            - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
@@ -94,15 +94,64 @@ content:
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Cognosante
+        link: https://cognosante.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: AWS Linux Cloud Admin
+        caption: January 2022 - March 2023
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Wokring as a contractor on the Care Project, I was offered a full time role being the the technical lead.   
+           - Maintained 120+ AWS cloud infrastructure with terraform, and github with CodeQL
+           - Deployed 2nd telehealth video conference platform in AWS bringing the total number of managed instances to 250.
+           - Reallocated blocks block of BYOIP addresses from single environment into secondary environment within the scheduled maintenance windows with zero customer impact.
+           - Managed the pivoting of events logs from a SAAS Splunk solution to a on-prem stack. Solution resulted in using ELK based logstash solution pipelines to send events into HEC connection.
+           - Re-deployed the current development environment nestled into production account to make it mimic more like production environments and incorporating BYOIP addressing.
+           - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
+           - Continued the day-to-day operations of the telehealth video conferencing systems. Monitoring alerts, logs, and cost of environments.
+      - layout: left
+        title: Prodigy
+        link: https://www.prodigyr.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Linux Cloud Admin
+        caption: August 2021 - Jan 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+        After spending 14 years at Rackspace in serveral roles I took a chance taking a contract to hire postion working as a sub-contractor for Cognosante.
+           - Obtained high public trust security clearance and passed DOD background investigation.
+           - Provided billable technical services for Cognosante contract with the Veteran Administration.
+           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
+           - Implement and administer AWS cloud infrastructure. 
+           - Manage and provision AWS resources as required by engineering teams. 
+           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
+      - layout: left
+        title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Cloud Engineer II
+        caption: September 2017 - August 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+        After spending 14 years at Rackspace in serveral roles I took a chance taking a contract to hire postion working as a sub-contractor for Cognosante.
+           - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
+           - Implemented security best practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
+           - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
+           - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+           - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
+           - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
+           - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
+           - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
+           - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
+           - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
+           - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
+           - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
+           - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
+           - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
+           - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
+           - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
 
 
   - title: Education # Title for the section
