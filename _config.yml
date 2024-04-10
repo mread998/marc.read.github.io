@@ -106,22 +106,22 @@ content:
            - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-      # -title: Cognosante
-      #   link: https://cognosante.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: AWS Linux Cloud Admin
-      #   caption: January 2022 - March 2023
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: | # this will include new lines to allow paragraphs
-      #     - Wokring as a contractor on the Care Project, I was offered a full time role being the the technical lead.   
-      #      - Maintained 120+ AWS cloud infrastructure with terraform, and github with CodeQL
-      #      - Deployed 2nd telehealth video conference platform in AWS bringing the total number of managed instances to 250.
-      #      - Reallocated blocks block of BYOIP addresses from single environment into secondary environment within the scheduled maintenance windows with zero customer impact.
-      #      - Managed the pivoting of events logs from a SAAS Splunk solution to a on-prem stack. Solution resulted in using ELK based logstash solution pipelines to send events into HEC connection.
-      #      - Re-deployed the current development environment nestled into production account to make it mimic more like production environments and incorporating BYOIP addressing.
-  #         - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
-#           - Continued the day-to-day operations of the telehealth video conferencing systems. Monitoring alerts, logs, and cost of environments.
+      -title: Cognosante
+        link: https://cognosante.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Linux Cloud Admin
+        caption: January 2022 - March 2023
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          - Wokring as a contractor on the Care Project, I was offered a full time role being the the technical lead.   
+           - Maintained 120+ AWS cloud infrastructure with terraform, and github with CodeQL
+           - Deployed 2nd telehealth video conference platform in AWS bringing the total number of managed instances to 250.
+           - Reallocated blocks block of BYOIP addresses from single environment into secondary environment within the scheduled maintenance windows with zero customer impact.
+           - Managed the pivoting of events logs from a SAAS Splunk solution to a on-prem stack. Solution resulted in using ELK based logstash solution pipelines to send events into HEC connection.
+           - Re-deployed the current development environment nestled into production account to make it mimic more like production environments and incorporating BYOIP addressing.
+          - Managed and mentored a small team of cloud administrators. Acting as scrum master; keeping epics, stories and tasks updated. 
+          - Continued the day-to-day operations of the telehealth video conferencing systems. Monitoring alerts, logs, and cost of environments.
       # - layout: left
       #   title: Prodigy
       #   link: https://www.prodigyr.com/
