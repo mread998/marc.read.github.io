@@ -127,7 +127,7 @@ content:
         link: https://www.rackspace.com/
         # link_text: boringcompany.com
         sub_title: AWS Cloud Engineer II
-        caption: March 2023 - Present
+        caption: September 2017 - August 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
@@ -149,21 +149,28 @@ content:
            - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
  
 
-      - title: Cognosante
-        link: https://cognosante.com/
+      - title: Rackspace
+        link: https://www.rackspace.com/
         # link_text: boringcompany.com
-        sub_title: DevOpe Engineer IV & XO Manager
-        caption: March 2023 - Present
+        sub_title: Linux Systems Administrator II
+        caption: September 2017 - August 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
+           - Managed and maintained Linux servers hosted on the Rackspace cloud platform, including configuration, monitoring, and troubleshooting.
+           - Collaborated with customers to understand their business requirements and provided tailored solutions to meet their needs within the Rackspace environment.
+           - Proficient in Linux system administration, including Operating System (CentOS, Ubuntu, Red Hat) and software installation, and system configuration in both physical and virtual environments.
+           - Administered user accounts, permissions, and access controls, ensuring security compliance and least privilege principles. Including working with SELinux, ACL, and FIPS.
+           - Strong knowledge of Linux server technologies such as Apache, Nginx, MySQL, mongodb, postresql , Lsync, Varnish, Redis, Memcached, webmin, cpanel, plex, and DNS.
+           - Monitored system performance and implemented performance tuning and optimization techniques to enhance system reliability and efficiency.
+           - Provided technical support and troubleshooting for Linux-related issues, responding to incidents and service requests in a timely manner.
+           - Planned and executed maintenance activities for linux systems in both dedicated and public cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+           - Experience with virtualization technologies such as VMware, KVM, Kuberneteis, Swarm and Docker.
+           - Documented procedures, configurations, and troubleshooting guides to facilitate knowledge transfer and ensure consistency in service delivery.
+           - Familiarity with Bash and python scripting languages and ansible automation tools and automated repeated tasks.
+           - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
+           - Effective communication and collaboration skills.
+
             
       # - title: Prodigy
       #   link: https://www.prodigyr.com/
