@@ -93,8 +93,8 @@ content:
            - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-      - layout: left
-        title: Cognosante
+      # - layout: left
+       -title: Cognosante
         link: https://cognosante.com/
         # link_text: boringcompany.com
         sub_title: AWS Linux Cloud Admin
