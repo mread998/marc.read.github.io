@@ -13,16 +13,15 @@ website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
-
-# Social links
+ Social links
 # twitter_username: facespics
-# github_username:  sproogen
+github_username:  mread998
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-# linkedin_username: jameswgrant
+linkedin_username: marc-read
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -31,9 +30,9 @@ darkmode: false
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: marcread.com
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.marcread.com
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
