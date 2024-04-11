@@ -246,13 +246,13 @@ content:
         description: | # this will include new lines to allow paragraphs
         #   Durring my time at Vatterrott I was also working full time and rasing a family and still managed to get on the deans list.  I made the most of my time and studies and would often stay late exploring personal projects. 
 
-  #  - title: Certifications
-  #    layout: text
-  #    content: | # this will include new lines to allow paragraphs
-  #     - AWS Cloud Architecture Associate 
-  #     - Scaled Agile SAFe Agilist
-  #     - Microsoft MCP in Windows XP
-  #     - CompTIA A+
+   - title: Certifications
+     layout: text
+     content: | # this will include new lines to allow paragraphs
+      - AWS Cloud Architecture Associate 
+      - Scaled Agile SAFe Agilist
+      - Microsoft MCP in Windows XP
+      - CompTIA A+
 
   #  - title: A Little More About Me
   #    layout: text
