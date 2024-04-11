@@ -133,25 +133,106 @@ content:
            - Manage and provision AWS resources as required by engineering teams. 
            - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
       - layout: left
-        title: Prodigy
-        link: https://www.prodigyr.com/
+        title: Rackspace
+        link: https://www.rackspace.com/
         # link_text: boringcompany.com
-        sub_title: AWS Linux Administrator
-        caption: August 2021 - Jan 2022
+        sub_title: AWS Cloud Engineer II
+        caption: September 2017 - August 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
-           - Obtained high public trust security clearance and passed DOD background investigation.
-           - Provided billable technical services for Cognosante contract with the Veteran Administration.
-           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
-           - Implement and administer AWS cloud infrastructure. 
-           - Manage and provision AWS resources as required by engineering teams. 
-           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
+        description: |
+           - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
+           - Implemented security best practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
+           - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
+           - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+           - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
+           - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
+           - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
+           - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
+           - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
+           - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
+           - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
+           - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
+           - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
+           - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
+           - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
+           - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
+ 
+      - layout: left
+        title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Linux Systems Administrator II
+        caption: September 2017 - August 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Managed and maintained Linux servers hosted on the Rackspace cloud platform, including configuration, monitoring, and troubleshooting.
+           - Collaborated with customers to understand their business requirements and provided tailored solutions to meet their needs within the Rackspace environment.
+           - Proficient in Linux system administration, including Operating System (CentOS, Ubuntu, Red Hat) and software installation, and system configuration in both physical and virtual environments.
+           - Administered user accounts, permissions, and access controls, ensuring security compliance and least privilege principles. Including working with SELinux, ACL, and FIPS.
+           - Strong knowledge of Linux server technologies such as Apache, Nginx, MySQL, mongodb, postresql , Lsync, Varnish, Redis, Memcached, webmin, cpanel, plex, and DNS.
+           - Monitored system performance and implemented performance tuning and optimization techniques to enhance system reliability and efficiency.
+           - Provided technical support and troubleshooting for Linux-related issues, responding to incidents and service requests in a timely manner.
+           - Planned and executed maintenance activities for linux systems in both dedicated and public cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+           - Experience with virtualization technologies such as VMware, KVM, Kuberneteis, Swarm and Docker.
+           - Documented procedures, configurations, and troubleshooting guides to facilitate knowledge transfer and ensure consistency in service delivery.
+           - Familiarity with Bash and python scripting languages and ansible automation tools and automated repeated tasks.
+           - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
+           - Effective communication and collaboration skills.
 
+      - layout: left
+        title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Cloud Sites Linux Administrator
+        caption: June 2011 - June 2013
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Managed and maintained multi-tenant web hosting environments, including configuration, monitoring, and performance optimization.
+           - Assisted customers with the use of the Rackspace Cloud Sites offering and assisted with helping them understand its limitations and strengths.
+           - Provisioned and deployed web services for multiple tenants, ensuring compatibility, security, and performance.
+           - Implemented and enforced security measures to protect tenant data and mitigate security risks, including access controls, encryption, and vulnerability assessments.
+           - Monitored system performance and resource utilization, identifying and resolving bottlenecks to ensure high availability and optimal performance for all tenants.
+           - Collaborated with cross-functional teams to implement new features, enhancements, and infrastructure upgrades to meet evolving tenant needs.
+           - Assisted with data migration from one enviroment to another using open-source technology.
+           - Developed bash scripts to gather information regarding size, scope, secuirty of customer files, backup and search for security threats.
+
+      - layout: left
+        title: Rackspace
+        link: https://www.rackspace.com/
+        # link_text: boringcompany.com
+        sub_title: Email Support Speciliist II
+        caption: July 2008 - June 2011
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Educated end user support on the inner workings of a large hybrid cloud email provider.
+           - Assisted with desktop service setup of mailboxes in a variety of different email clients.
+           - Troubleshoot a plethora of email related issues from calendar sharing, blackberry sync, DNS to mailbox corruption.
+           - Assisted customer with migration of mailbox data to ensure there was no missed data.
+           - Configured Multi domain routing for seamless email delivery across many different email systems.
+           - Was a point of escalation for junior specialists and provided mentoring and training based on the needs of the support floor. 
+           - Configured an troubleshoot mobile devices including Blackberry, iphone, and Android devices.
+
+      - layout: left
+        title: Wells Fargo Financial
+        link: https://www.com
+        # link_text: boringcompany.com
+        sub_title: Technical Support Speciliist II
+        caption: July 2008 - June 2011
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: |
+           - Desktop support of Windows based systems incluindg mailbox management, software install, and patching verification.
+           - Deploy, Troubleshoot, patch, install, legacy and systems.
+           - Worked with third party technicians on standard branch layout, and legacy system configuration.
+      
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
