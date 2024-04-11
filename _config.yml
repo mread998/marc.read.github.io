@@ -246,6 +246,19 @@ content:
         description: | # this will include new lines to allow paragraphs
         #   Durring my time at Vatterrott I was also working full time and rasing a family and still managed to get on the deans list.  I made the most of my time and studies and would often stay late exploring personal projects. 
 
+
+  - title: Certification # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS Cloud Architecture Associate
+        caption: Sep 2018 - Sep 2026
+        # sub_title: Associate Degree in Computer Science and Network systems
+        # quote: >
+        #    Established roots in 1969, Vatterrot College was a for carreer training center providing trade based eduction.
+        # description: | # this will include new lines to allow paragraphs
+        # #   Durring my time at Vatterrott I was also working full time and rasing a family and still managed to get on the deans list.  I made the most of my time and studies and would often stay late exploring personal projects. 
+
   #  - title: Certifications
   #    layout: text
   #    content: | # this will include new lines to allow paragraphs
