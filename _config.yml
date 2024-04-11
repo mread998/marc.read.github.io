@@ -94,14 +94,18 @@ content:
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
      
-      - title: Cognosante
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Cognosante
         link: https://cognosante.com/
         # link_text: boringcompany.com
         sub_title: AWS Linux Administrator
         caption: January 2022 - March 2023
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: |
+        description: | 
            - After working on the Care2 project for the VA and managing two other engineers, I was given the opertintuint to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
            - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
            - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
@@ -109,7 +113,9 @@ content:
            - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-      
+     
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
