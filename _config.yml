@@ -52,24 +52,24 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in <mark>AWS</mark> and I have <mark>High Public Trust Clearance</mark> with experaince in the following <mark>Systems Administration</mark>, <mark>DevOps</mark>, <mark>Scrum Master</mark>, <mark>Instructor/Teacher</mark>, <mark>Linux System Administrator</mark>, <mark>Cloud Administrator</mark>, <mark>Terraform</mark>, <mark>CloudFormation</mark>, <mark>OpenStack Heat</mark>, <mark>Github</mark>, <mark>Ansible</mark>, <mark>CI/CD Pipeline</mark>, <mark>Blue Green Deployment</mark>, <mark>Jenkins</mark>, <mark>Docker </mark>, <mark>Docker Compose</mark>, <mark>Kubernetes </mark>, <mark>Version Control</mark>, <mark>Scrum Master</mark>, <mark>Agility.io</mark>, <mark> AWS Cloud </mark>, <mark>EC2</mark>,  <mark>RDS</mark>,  <mark>S3</mark>,  <mark>CloudWatch</mark>,  <mark>VPC</mark>,  <mark>Auto Scaling Groups</mark>,  <mark>EC2 Templates</mark>,  <mark>Code Deploy</mark>,  <mark>CloudTrail</mark>,  <mark>Application Load Balancer</mark>,  <mark>Network Load Balancer</mark>,  <mark>BYOIP / IPAM</mark>, <mark>Linux Amazon/RHEL/Debian</mark>, <mark>ELK Stack</mark>,  <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>,  <mark>Splunk</mark>,  <mark>Bash</mark>,  <mark>Crony</mark>,  <mark>Firewalld</mark>, <mark>UFW</mark>,  <mark>IPTables</mark>, <mark>Systemd</mark>,  <mark>SystemV</mark>,  <mark>Apache</mark>,  <mark>Nginx</mark>,  <mark>PHP</mark>,  <mark>Nodejs</mark>, <mark>Mysql</mark>,  <mark>Postgresql</mark>,  <mark>Lsync</mark>,  <mark>MariaDB</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>NFS</mark>,  <mark>Samaba</mark>,  <mark>Varnish</mark>, <mark>Redis</mark>, <mark>Memcached</mark>,  <mark>Webmin</mark>,  <mark>Cpanel</mark>,  <mark>Plesk</mark>, and <mark>Rackspace Public Cloud</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title:  sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
