@@ -269,13 +269,13 @@ content:
         title: Microsoft MCP in Windows XP
         caption: 2005
 
-   - title: A Little More About Me
-     layout: text
-     content: | # this will include new lines to allow paragraphs
-       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
-       - Homelabbing
-       - Gaming
-       - Exporing learning Guitar, Bass and Banjo and music production
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
+      - Homelabbing
+      - Gaming
+      - Exporing learning Guitar, Bass and Banjo and music production
 
 # Footer
 footer_show_references: true
