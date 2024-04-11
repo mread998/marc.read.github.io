@@ -9,10 +9,10 @@ version: 2
 name: Marc Read
 title: XO Manager and DevOps Engineenr IV
 email: marcread@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://marcread.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
  Social links
 # twitter_username: facespics
 github_username:  mread998
