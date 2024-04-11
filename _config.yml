@@ -96,7 +96,7 @@ content:
      
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
-    content:
+    # content:
       - layout: left
         title: Cognosante
         link: https://cognosante.com/
@@ -116,7 +116,7 @@ content:
      
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
-    content:
+    # content:
       - layout: left
         title: Prodigy
         link: https://www.prodigyr.com/
