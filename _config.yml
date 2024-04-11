@@ -272,9 +272,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
-      - Homelabbing
-      - Gaming
-      - Exporing learning Guitar, Bass and Banjo and music production
+      - Toying and tinkering in my Homelab
+      - Retro Gaming
+      - Exploring learning Guitar, Bass and Banjo and music production
 
 # Footer
 footer_show_references: true
