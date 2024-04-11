@@ -253,11 +253,19 @@ content:
       - layout: left
         title: AWS Cloud Architecture Associate
         caption: Sep 2018 - Sep 2026
+        description: | 
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8f299868-f7be-4dfc-9e3c-dda46b629b14" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
       - layout: left
         title: Scaled Agile SAFe Agilist
         caption: Feb 2023 - Feb 2024
-
-
+      - layout: left
+        title: Microsoft MCP in Windows XP
+        caption: 2025
+      - layout: left
+        title: CompTIA A+
+        caption: 2006
 
         # sub_title: Associate Degree in Computer Science and Network systems
         # quote: >
