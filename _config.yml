@@ -94,8 +94,8 @@ content:
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
      
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Cognosante
@@ -114,6 +114,43 @@ content:
            - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
            - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
      
+  # - title: Experience # Title for the section
+  #   layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Prodigy
+        link: https://www.prodigyr.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Linux Administrator
+        caption: August 2021 - Jan 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+           - Obtained high public trust security clearance and passed DOD background investigation.
+           - Provided billable technical services for Cognosante contract with the Veteran Administration.
+           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
+           - Implement and administer AWS cloud infrastructure. 
+           - Manage and provision AWS resources as required by engineering teams. 
+           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Prodigy
+        link: https://www.prodigyr.com/
+        # link_text: boringcompany.com
+        sub_title: AWS Linux Administrator
+        caption: August 2021 - Jan 2022
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | 
+           - Obtained high public trust security clearance and passed DOD background investigation.
+           - Provided billable technical services for Cognosante contract with the Veteran Administration.
+           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
+           - Implement and administer AWS cloud infrastructure. 
+           - Manage and provision AWS resources as required by engineering teams. 
+           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
 
 
   - title: Education # Title for the section
