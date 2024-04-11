@@ -267,29 +267,15 @@ content:
           ![COMPTIA A+](images\comptia-a-certification.6.png)
       - layout: left
         title: Microsoft MCP in Windows XP
-        caption: 2025
+        caption: 2005
 
-        # sub_title: Associate Degree in Computer Science and Network systems
-        # quote: >
-        #    Established roots in 1969, Vatterrot College was a for carreer training center providing trade based eduction.
-        # description: | # this will include new lines to allow paragraphs
-        # #   Durring my time at Vatterrott I was also working full time and rasing a family and still managed to get on the deans list.  I made the most of my time and studies and would often stay late exploring personal projects. 
-
-  #  - title: Certifications
-  #    layout: text
-  #    content: | # this will include new lines to allow paragraphs
-  #     - AWS Cloud Architecture Associate 
-  #     - Scaled Agile SAFe Agilist
-  #     - Microsoft MCP in Windows XP
-  #     - CompTIA A+
-
-  #  - title: A Little More About Me
-  #    layout: text
-  #    content: | # this will include new lines to allow paragraphs
-  #      Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
-  #      - Homelabbing
-  #      - Gaming
-  #      - Exporing learning Guitar, bass and Banjo and music production
+   - title: A Little More About Me
+     layout: text
+     content: | # this will include new lines to allow paragraphs
+       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
+       - Homelabbing
+       - Gaming
+       - Exporing learning Guitar, Bass and Banjo and music production
 
 # Footer
 footer_show_references: true
