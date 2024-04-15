@@ -247,7 +247,7 @@ content:
         quote: >
            Established roots in 1969, Vatterrot College was a for carreer training center providing trade based eduction.
         description: | # this will include new lines to allow paragraphs
-        Despite working full time and raising a family, I was able to achieve academic excellence and make it onto the dean’s list during my time at Vatterott.  I made the most of my time and studies and would often stay late exploring personal and exploring other projects.
+        # Despite working full time and raising a family, I was able to achieve academic excellence and make it onto the dean’s list during my time at Vatterott.  I made the most of my time and studies and would often stay late exploring personal and exploring other projects.
 
   - title: Certification # Title for the section
     layout: list # Type of content section (list/text)
@@ -270,7 +270,7 @@ content:
       - layout: left
         title: Microsoft MCP in Windows XP
         caption: 2005
-        
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
