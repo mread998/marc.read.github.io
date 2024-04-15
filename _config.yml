@@ -50,7 +50,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Howdy, my name is Marc.  I'm a Results driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
+  Howdy, my name is Marc.  I’m a result driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to a small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
 
   I am most skilled in <mark>AWS</mark> and I have <mark>High Public Trust Clearance</mark> with experaince in the following <mark>Systems Administration</mark>, <mark>DevOps</mark>, <mark>Scrum Master</mark>, <mark>Instructor/Teacher</mark>, <mark>Linux System Administrator</mark>, <mark>Cloud Administrator</mark>, <mark>Terraform</mark>, <mark>CloudFormation</mark>, <mark>OpenStack Heat</mark>, <mark>Github</mark>, <mark>Ansible</mark>, <mark>CI/CD Pipeline</mark>, <mark>Blue Green Deployment</mark>, <mark>Jenkins</mark>, <mark>Docker </mark>, <mark>Docker Compose</mark>, <mark>Kubernetes </mark>, <mark>Version Control</mark>, <mark>Scrum Master</mark>, <mark>Agility.io</mark>, <mark> AWS Cloud </mark>, <mark>EC2</mark>,  <mark>RDS</mark>,  <mark>S3</mark>,  <mark>CloudWatch</mark>,  <mark>VPC</mark>,  <mark>Auto Scaling Groups</mark>,  <mark>EC2 Templates</mark>,  <mark>Code Deploy</mark>,  <mark>CloudTrail</mark>,  <mark>Application Load Balancer</mark>,  <mark>Network Load Balancer</mark>,  <mark>BYOIP / IPAM</mark>, <mark>Linux Amazon/RHEL/Debian</mark>, <mark>ELK Stack</mark>,  <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>,  <mark>Splunk</mark>,  <mark>Bash</mark>,  <mark>Crony</mark>,  <mark>Firewalld</mark>, <mark>UFW</mark>,  <mark>IPTables</mark>, <mark>Systemd</mark>,  <mark>SystemV</mark>,  <mark>Apache</mark>,  <mark>Nginx</mark>,  <mark>PHP</mark>,  <mark>Nodejs</mark>, <mark>Mysql</mark>,  <mark>Postgresql</mark>,  <mark>Lsync</mark>,  <mark>MariaDB</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>NFS</mark>,  <mark>Samaba</mark>,  <mark>Varnish</mark>, <mark>Redis</mark>, <mark>Memcached</mark>,  <mark>Webmin</mark>,  <mark>Cpanel</mark>,  <mark>Plesk</mark>, and <mark>Rackspace Public Cloud</mark>.
 
@@ -85,14 +85,15 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
-           - After working on the Care2 project for the VA and managing two other engineers, I was given the opportunity opportunity to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
-     
+          - After working on the Care2 project for the VA and managing two other engineers, I was given the opportunity opportunity to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
+          - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership.
+          - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership.
+          - Developed and delivered AWS cloud training to VA Full-time Employees repeating the curriculum on a monthly basis.
+          - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on-prem into AWS and Azure clouds.
+          - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
+          - Attended and took part in meetings where the DevSecOps team expertise is required or requests to assist.
+          - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership.
+
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
     # content:
@@ -105,13 +106,13 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
-           - After working on the Care2 project for the VA and managing two other engineers, I was given the opportunity to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
-           - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership. 
-           - Developed and delivered AWS cloud training to VA Full time Employees repeating the curriculum on a monthly basis.
-           - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on prem into AWS and Azure clouds.
-           - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
-           - Attended and participated in meetings where the DevSecOps team expertise is required or requests to assist.
-           - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership. 
+          - After working on the Care2 project for the VA and managing two other engineers, I was given the opportunity to work as a backup manager (XO) for the DevSecOps team with Cognosante’s U.S. Department of Veterans Affairs contract.
+          - Produced Weekly Activity Report (WAR) report sharing the wins, challenges and status of the DevSecOps team with Cognosante and VA leadership.
+          - Developed and delivered AWS cloud training to VA Full-time employees repeating the curriculum on a monthly basis.
+          - Managed the team of 10 DevOps engineers though daily scrums, managed projects though Agility.io (formerly VersionOne) and helped facilitate cloud migrations from on-prem into AWS and Azure clouds.
+          - Assisted with cloud-based customers on the process of submitting paperwork for firewall requests to open ports between on-prem and cloud environments.
+          - Attended and took part in meetings where the DevSecOps team expertise is required or requests to assist.
+          - Produced Weekly Activity Report (WAR) report, sharing the wins, challenges and status of the DevSecOps team with Cognosante and Va leadership.
      
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -125,13 +126,12 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | 
-           - Obtained high public trust security clearance and passed DOD background investigation.
-           - Provided billable technical services for Cognosante contract with the Veteran Administration.
-           - Manage the day-to-day operations of nationwide telehealth video conferencing systems. 
-           - Implement and administer AWS cloud infrastructure. 
-           - Manage and provision AWS resources as required by engineering teams. 
-           - Review and manage monthly costs through best practices and recommended infrastructure cost optimizations.
-
+          - Secured high public trust security clearance and passed DOD background investigation.
+          - Provided billable technical services for Cognosante contract with the Veteran Administration.
+          - Manage the day-to-day operations of nationwide telehealth video conferencing systems.
+          - Implement and administer AWS cloud infrastructure.
+          - Manage and provide AWS resources as required by engineering teams.
+          - Review and manage monthly costs through best-practices and recommended infrastructure cost optimizations.
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
@@ -144,22 +144,22 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
-           - Implemented security best practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
-           - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
-           - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
-           - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
-           - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
-           - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
-           - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
-           - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
-           - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
-           - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
-           - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
-           - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
-           - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
-           - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
-           - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
+          - Administered AWS cloud environments, including provisioning, monitoring, and maintaining resources such as EC2 instances, S3 buckets, RDS databases, and VPCs.
+          - Implemented security best-practices by configuring IAM roles, security groups, encryption, and auditing controls, ensuring compliance with industry standards.
+          - Automated routine tasks and workflows using AWS Lambda functions and AWS CLI, resulting in increased operational efficiency and reduced manual effort.
+          - Planned and executed maintenance activities for AWS cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+          - Conducted and designed regular backups of critical data and implemented disaster recovery strategies to mitigate data loss and minimize downtime.
+          - Monitored system performance metrics using AWS CloudWatch and other monitoring tools, identifying areas for improvement and implementing optimizations.
+          - Collaborated with cross-functional teams to schedule maintenance windows, communicate maintenance activities, and minimize disruption to service availability.
+          - Documented maintenance procedures, configurations, and post-maintenance reports to ensure compliance with operational standards and facilitate knowledge transfer.
+          - Responded to and resolved maintenance-related incidents and service requests in a timely manner, ensuring minimal impact on business operations.
+          - Facilitated communication and collaboration between development, operations, and business teams to align goals and priorities for AWS cloud projects.
+          - Acted as a liaison between technical and non-technical stakeholders, translating business requirements into actionable technical tasks and vice versa.
+          - Led cross-functional meetings, workshops, and brainstorming sessions to gather requirements, discuss solutions, and resolve conflicts.
+          - Coordinated with external vendors, consultants, and third-party providers to integrate external services and solutions into AWS environments.
+          - Established and maintained documentation and knowledge sharing processes to ensure that relevant information is accessible to all team members.
+          - performance tuning and optimization of AWS resources to improve system reliability, scalability, and cost-effectiveness.
+          - Responded to and resolved incidents and service requests in a timely manner, collaborating with cross-functional teams to address technical issues.
  
       - layout: left
         title: Rackspace
@@ -193,14 +193,19 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - Managed and maintained multi-tenant web hosting environments, including configuration, monitoring, and performance optimization.
-           - Assisted customers with the use of the Rackspace Cloud Sites offering and assisted with helping them understand its limitations and strengths.
-           - Provisioned and deployed web services for multiple tenants, ensuring compatibility, security, and performance.
-           - Implemented and enforced security measures to protect tenant data and mitigate security risks, including access controls, encryption, and vulnerability assessments.
-           - Monitored system performance and resource utilization, identifying and resolving bottlenecks to ensure high availability and optimal performance for all tenants.
-           - Collaborated with cross-functional teams to implement new features, enhancements, and infrastructure upgrades to meet evolving tenant needs.
-           - Assisted with data migration from one enviroment to another using open-source technology.
-           - Developed bash scripts to gather information regarding size, scope, secuirty of customer files, backup and search for security threats.
+          - Managed and maintained Linux servers hosted on the Rackspace Cloud platform, including configuration, monitoring, and troubleshooting.
+          - Collaborated with customers to understand their business requirements and provided tailored solutions to meet their needs within the Rackspace environment.
+          - Proficient in Linux system administration, including Operating System (CentOS, Ubuntu, Red Hat) and software installation, and system configuration in both physical and virtual environments.
+          - Administered user accounts, permissions, and access controls, ensuring security compliance and least privilege principles. Including working with SELinux, ACL, and FIPS.
+          - Strong knowledge of Linux server technologies such as Apache, Nginx, MySQL, Mongodb, Postresql , Lsync, Varnish, Redis, Memcached, webmin, cpanel, plex, and DNS.
+          - Monitored system performance and implemented performance tuning and optimization techniques to enhance system reliability and efficiency.
+          - Provided technical support and troubleshooting for Linux-related issues, responding to incidents and service requests in a timely manner.
+          - Planned and executed maintenance activities for linux systems in both dedicated and public cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
+          - Experience with virtualization technologies such as VMware, KVM, Kubernetes, Swarm and Docker.
+          - Documented procedures, configurations, and troubleshooting guides to facilitate knowledge transfer and ensure consistency in service delivery.
+          - Familiarity with Bash and python scripting languages and Ansible automation tools and automated repeated tasks.
+          - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
+          - Effective communication and collaboration skills.
 
       - layout: left
         title: Rackspace
@@ -211,13 +216,13 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - Educated end user support on the inner workings of a large hybrid cloud email provider.
-           - Assisted with desktop service setup of mailboxes in a variety of different email clients.
-           - Troubleshoot a plethora of email related issues from calendar sharing, blackberry sync, DNS to mailbox corruption.
-           - Assisted customer with migration of mailbox data to ensure there was no missed data.
-           - Configured Multi domain routing for seamless email delivery across many different email systems.
-           - Was a point of escalation for junior specialists and provided mentoring and training based on the needs of the support floor. 
-           - Configured an troubleshoot mobile devices including Blackberry, iphone, and Android devices.
+          - Educated end user support on the inner workings of a large hybrid cloud email provider.
+          - Assisted with desktop service setup of mailboxes in a variety of different email clients.
+          - Troubleshoot a plethora of email related issues from calendar sharing, blackberry sync, DNS to mailbox corruption.
+          - Assisted customer with migration of mailbox data to ensure there was no missed data.
+          - Configured Multi domain routing for seamless email delivery across different email systems.
+          - Was a point of escalation for junior specialists and provided mentoring and training based on the needs of the support floor.
+          - Configured an troubleshoot mobile devices including Blackberry, iPhone, and Android devices.
 
       - layout: left
         title: Wells Fargo Financial
@@ -228,23 +233,21 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-           - Desktop support of Windows based systems incluindg mailbox management, software install, and patching verification.
-           - Deploy, Troubleshoot, patch, install, legacy and systems.
-           - Worked with third party technicians on standard branch layout, and legacy system configuration.
-      
+          - Desktop support of Windows-based systems including mailbox management, software install, and patching verification.
+          - Deploy, Troubleshoot, patch, install, legacy and systems.
+           - Worked with third party technicians on standard branch layout and legacy system configuration.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Vaterott Collage
+        title: Vaterott College
         caption: 2003 - 2005
         sub_title: Associate Degree in Computer Science and Network systems
         quote: >
            Established roots in 1969, Vatterrot College was a for carreer training center providing trade based eduction.
         description: | # this will include new lines to allow paragraphs
-        #   Durring my time at Vatterrott I was also working full time and rasing a family and still managed to get on the deans list.  I made the most of my time and studies and would often stay late exploring personal projects. 
-
+        # Despite working full time and raising a family, I was able to achieve academic excellence and make it onto the dean’s list during my time at Vatterott.  I made the most of my time and studies and would often stay late exploring personal and exploring other projects.
 
   - title: Certification # Title for the section
     layout: list # Type of content section (list/text)
@@ -272,9 +275,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
-      - Toying and tinkering in my Homelab
-      - Retro Gaming
-      - Exploring learning Guitar, Bass and Banjo and music production
+      - Toying and tinkering in my Homelab.
+      - Exploring learning Guitar, Bass and Banjo and music production.
+      - Visiting with my adult children and wasting time with my awesome wife.
 
 # Footer
 footer_show_references: true
