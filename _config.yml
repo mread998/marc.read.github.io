@@ -270,7 +270,7 @@ content:
       - layout: left
         title: Microsoft MCP in Windows XP
         caption: 2005
-
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
