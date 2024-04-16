@@ -48,7 +48,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png #profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Howdy, my name is Marc.  I’m a result driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to a small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
 
