@@ -193,20 +193,10 @@ content:
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-          - Managed and maintained Linux servers hosted on the Rackspace Cloud platform, including configuration, monitoring, and troubleshooting.
-          - Collaborated with customers to understand their business requirements and provided tailored solutions to meet their needs within the Rackspace environment.
-          - Proficient in Linux system administration, including Operating System (CentOS, Ubuntu, Red Hat) and software installation, and system configuration in both physical and virtual environments.
-          - Administered user accounts, permissions, and access controls, ensuring security compliance and least privilege principles. Including working with SELinux, ACL, and FIPS.
-          - Strong knowledge of Linux server technologies such as Apache, Nginx, MySQL, Mongodb, Postresql , Lsync, Varnish, Redis, Memcached, webmin, cpanel, plex, and DNS.
-          - Monitored system performance and implemented performance tuning and optimization techniques to enhance system reliability and efficiency.
-          - Provided technical support and troubleshooting for Linux-related issues, responding to incidents and service requests in a timely manner.
-          - Planned and executed maintenance activities for linux systems in both dedicated and public cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
-          - Experience with virtualization technologies such as VMware, KVM, Kubernetes, Swarm and Docker.
-          - Documented procedures, configurations, and troubleshooting guides to facilitate knowledge transfer and ensure consistency in service delivery.
-          - Familiarity with Bash and python scripting languages and Ansible automation tools and automated repeated tasks.
-          - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
-          - Effective communication and collaboration skills.
-
+          - Provided technical support for a hybrid Windows and Linux based hosting solution.
+          - Working on customer-based issues through thickets and phone calls, including assisting with migrations to other clusters, and security requests.
+          - Was a source of escalation on technical problems specalizing in wordpress, Drupal and Joomla.
+          - SME on Email setup and configuration setup and troubleshooting.
       - layout: left
         title: Rackspace
         link: https://www.rackspace.com/
