@@ -24,6 +24,12 @@ additional_links:
   - title: marcread.com
     icon: fas fa-globe
     url: https://www.marcread.com
+  - title: Download Resume Word
+    icon: fas fa-file-docx
+    url: /assets/Marc.Read-Resume-2025.docx
+  - title: Download Resume PDF
+    icon: fas fa-file-pdf
+    url: /assets/Marc.Read-Resume-2025.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
