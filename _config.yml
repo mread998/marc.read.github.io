@@ -79,7 +79,7 @@ content:
     layout: list
     content:
       - layout: left
-        description
+        description: |
         - Cloud Platforms: AWS (EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, Route 53)
         - DevOps & Automation: CI/CD (GitHub Actions, Jenkins, CodePipeline), Docker, Kubernetes, Terraform, Ansible
         - Leadership: Team management, Agile/Scrum, mentorship, sprint execution, stakeholder communication
