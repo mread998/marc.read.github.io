@@ -15,276 +15,132 @@ website: https://marcread.com
 darkmode: true
 
 # Social links
-github_username:  mread998
+github_username: mread998
 linkedin_username: marc-read
-#twitter_username: facespics
-#github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
-#linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# twitter_username: facespics
 
 # Additional icon links
 additional_links:
-- title: marcread.com
-  icon: fas fa-globe
-  url: https://www.marcread.com
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: marcread.com
+    icon: fas fa-globe
+    url: https://www.marcread.com
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg #profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Greetings, I'm Marc, DevOps Manager with 10+ years of AWS and Linux engineering experience leading cloud modernization, automation, and infrastructure reliability initiatives. Proven ability to manage engineering teams, drive CI/CD best practices, implement Infrastructure-as-Code at scale, and support high‑visibility federal programs. Adept at cross-functional leadership, cloud strategy, and delivering secure, scalable DevSecOps solutions.
-  # Howdy, my name is Marc.  I’m a result driven, action-oriented, professional cloud firefighter with decades of experience with Information Technology and managing in multiple clouds. A proven leader who has kept high Public Trust Clearance, certification in AWS Cloud Architecture and Certified Safe Scrum Project Manager. A trainer who has delivered cloud-based training to a small group of server admins monthly. Seeking other opportunities to help an organization with their cloud infrastructure as well as expand and sharpen my skill set.
+about_profile_image: images/profile.jpg
+about_content: |
+  Greetings, I'm Marc, DevOps Manager with 10+ years of AWS and Linux engineering experience leading cloud modernization, automation, and infrastructure reliability initiatives. Proven ability to manage engineering teams, drive CI/CD best practices, implement Infrastructure-as-Code at scale, and support high-visibility federal programs. Adept at cross-functional leadership, cloud strategy, and delivering secure, scalable DevSecOps solutions.
 
-  I am most skilled in <mark>AWS</mark> and I have <mark>High Public Trust Clearance</mark> with experaince in the following <mark>Systems Administration</mark>, <mark>DevOps</mark>, <mark>Scrum Master</mark>, <mark>Instructor/Teacher</mark>, <mark>Linux System Administrator</mark>, <mark>Cloud Administrator</mark>, <mark>Kubernetes</mark>, <mark>Artifical Intelligence</mark>, <mark>Terraform</mark>, <mark>CloudFormation</mark>, <mark>OpenStack Heat</mark>, <mark>Github</mark>, <mark>Ansible</mark>, <mark>CI/CD Pipeline</mark>, <mark>Blue Green Deployment</mark>, <mark>Jenkins</mark>, <mark>Docker </mark>, <mark>Docker Compose</mark>, <mark>Kubernetes </mark>, <mark>Version Control</mark>, <mark>Scrum Master</mark>, <mark>Agility.io</mark>, <mark> AWS Cloud </mark>, <mark>EC2</mark>,  <mark>RDS</mark>,  <mark>S3</mark>,  <mark>CloudWatch</mark>,  <mark>VPC</mark>,  <mark>Auto Scaling Groups</mark>,  <mark>EC2 Templates</mark>,  <mark>Code Deploy</mark>,  <mark>CloudTrail</mark>,  <mark>Application Load Balancer</mark>,  <mark>Network Load Balancer</mark>,  <mark>BYOIP / IPAM</mark>, <mark>Linux Amazon/RHEL/Debian</mark>, <mark>ELK Stack</mark>,  <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>,  <mark>Splunk</mark>,  <mark>Bash</mark>,  <mark>Crony</mark>,  <mark>Firewalld</mark>, <mark>UFW</mark>,  <mark>IPTables</mark>, <mark>Systemd</mark>,  <mark>SystemV</mark>,  <mark>Apache</mark>,  <mark>Nginx</mark>,  <mark>PHP</mark>,  <mark>Nodejs</mark>, <mark>Mysql</mark>,  <mark>Postgresql</mark>,  <mark>Lsync</mark>,  <mark>MariaDB</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>NFS</mark>,  <mark>Samaba</mark>,  <mark>Varnish</mark>, <mark>Redis</mark>, <mark>Memcached</mark>,  <mark>Webmin</mark>,  <mark>Cpanel</mark>,  <mark>Plesk</mark>, and <mark>Rackspace Public Cloud</mark>.
-
+  I am most skilled in <mark>AWS</mark> and I have <mark>High Public Trust Clearance</mark> with experaince in the following <mark>Systems Administration</mark>, <mark>DevOps</mark>, <mark>Scrum Master</mark>, <mark>Instructor/Teacher</mark>, <mark>Linux System Administrator</mark>, <mark>Cloud Administrator</mark>, <mark>Kubernetes</mark>, <mark>Artifical Intelligence</mark>, <mark>Terraform</mark>, <mark>CloudFormation</mark>, <mark>OpenStack Heat</mark>, <mark>Github</mark>, <mark>Ansible</mark>, <mark>CI/CD Pipeline</mark>, <mark>Blue Green Deployment</mark>, <mark>Jenkins</mark>, <mark>Docker</mark>, <mark>Docker Compose</mark>, <mark>Kubernetes</mark>, <mark>Version Control</mark>, <mark>Scrum Master</mark>, <mark>Agility.io</mark>, <mark>AWS Cloud</mark>, <mark>EC2</mark>, <mark>RDS</mark>, <mark>S3</mark>, <mark>CloudWatch</mark>, <mark>VPC</mark>, <mark>Auto Scaling Groups</mark>, <mark>EC2 Templates</mark>, <mark>Code Deploy</mark>, <mark>CloudTrail</mark>, <mark>Application Load Balancer</mark>, <mark>Network Load Balancer</mark>, <mark>BYOIP / IPAM</mark>, <mark>Linux Amazon/RHEL/Debian</mark>, <mark>ELK Stack</mark>, <mark>Elasticsearch</mark>, <mark>Logstash</mark>, <mark>Kibana</mark>, <mark>Splunk</mark>, <mark>Bash</mark>, <mark>Crony</mark>, <mark>Firewalld</mark>, <mark>UFW</mark>, <mark>IPTables</mark>, <mark>Systemd</mark>, <mark>SystemV</mark>, <mark>Apache</mark>, <mark>Nginx</mark>, <mark>PHP</mark>, <mark>Nodejs</mark>, <mark>Mysql</mark>, <mark>Postgresql</mark>, <mark>Lsync</mark>, <mark>MariaDB</mark>, <mark>MongoDB</mark>, <mark>MySQL</mark>, <mark>NFS</mark>, <mark>Samba</mark>, <mark>Varnish</mark>, <mark>Redis</mark>, <mark>Memcached</mark>, <mark>Webmin</mark>, <mark>Cpanel</mark>, <mark>Plesk</mark>, and <mark>Rackspace Public Cloud</mark>.
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-  # - title: Core Competencies
-  #   layout: list
-  #   content:
-  #     - layout: left
-  #       description: |
-  #       - Cloud Platforms: AWS (EC2, S3, RDS, VPC, Lambda, CloudWatch, IAM, Route 53)
-  #       - DevOps & Automation: CI/CD (GitHub Actions, Jenkins, CodePipeline), Docker, Kubernetes, Terraform, Ansible
-  #       - Leadership: Team management, Agile/Scrum, mentorship, sprint execution, stakeholder communication
-  #       - Security & Compliance: IAM governance, encryption (KMS), cloud firewalls, FedRAMP/FISMA familiarity
-  #       - Monitoring & Logging: CloudWatch, ELK, Prometheus
-  #       - Programming & Scripting: Bash, python
+  - title: Experience
+    layout: list
+    content:
 
-  # - title: Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-    # content:
       - layout: left
         title: Accenture Federal Services / Cognosante | Arlington, Virginia
         link: https://cognosante.com/
-        # link_text: boringcompany.com
-        sub_title: DevOps Engineer IV / Custom Software Engineering Software Assoicate Manager
+        sub_title: DevOps Engineer IV / Custom Software Engineering Associate Manager
         caption: January 2022 - March 2023
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
-          - Lead and manage a 10‑engineer DevSecOps team supporting VA healthcare infrastructure across AWS and Azure.
+        description: |
+          - Lead and manage a 10-engineer DevSecOps team supporting VA healthcare infrastructure across AWS and Azure.
           - Serve as Backup Manager (XO) for the DevSecOps division, ensuring operational readiness and delivery execution.
           - Direct daily Agile ceremonies, sprint planning, backlog refinement, and technical work assignment.
           - Guide cloud migration strategy and execution, including modernization of workloads and adoption of DevOps best practices.
           - Developed and delivered monthly AWS training to 30+ VA system administrators, improving cloud operational proficiency.
           - Authored Weekly Activity Reports for VA leadership to communicate accomplishments, risks, and engineering velocity.
-          - Supported secure connectivity between on‑prem and cloud environments, including ESECC and firewall request processes.
+          - Supported secure connectivity between on-prem and cloud environments, including ESECC and firewall request processes.
           - Managed enterprise adoption of Ansible Automation Platform, GitHub Enterprise, and Azure DevOps.
           - Led the proof-of-concept deployment of ScienceLogic’s Skylar Analytics, coordinating approvals and production readiness.
+
       - layout: left
         title: Accenture Federal Services / Cognosante | Arlington, Virginia
         link: https://cognosante.com/
-        # link_text: boringcompany.com
         sub_title: AWS Linux Administrator
         caption: January 2022 - March 2025
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
+        description: |
           - Managed 120+ AWS resources using Terraform, GitHub, and automated CI/CD pipelines to improve consistency and reliability.
           - Launched and scaled a nationwide telehealth video conferencing platform to 250+ EC2 instances with zero downtime.
           - Transitioned logging pipelines from Splunk SaaS to an on-prem ELK stack using Logstash and HEC integrations.
           - Redesigned the development environment to mirror production architecture, improving deployment validation.
           - Served as Scrum Master for a team of cloud administrators, ensuring sprint focus and story alignment.
 
-     
-  # - title: Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-    # content:
       - layout: left
         title: Prodigy
         link: https://www.prodigyr.com/
-        # link_text: boringcompany.com
         sub_title: AWS Linux Administrator
         caption: August 2021 - Jan 2022
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | 
-          - Supported mission‑critical telehealth infrastructure for nationwide VA programs.
+        description: |
+          - Supported mission-critical telehealth infrastructure for nationwide VA programs.
           - Provisioned and managed AWS environments while optimizing monthly cloud spend through best practices.
           - Passed DoD background investigation and maintained Public Trust clearance.
 
-  # - title: Experience # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
       - layout: left
         title: Rackspace
         link: https://www.rackspace.com/
-        # link_text: boringcompany.com
         sub_title: AWS Cloud Engineer II
         caption: September 2017 - August 2021
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
           - Designed, deployed, and supported AWS workloads including EC2, VPCs, S3, RDS, and IAM.
           - Automated operational tasks using Lambda, CLI, and Python, reducing manual overhead and improving uptime.
           - Executed patching, DR strategies, and performance tuning to maintain SLA compliance.
           - Collaborated with customers to translate business requirements into cloud solutions.
-          - Linux Systems Administrator II (2017 – 2021)
           - Managed large-scale Linux environments (CentOS, Ubuntu, RHEL).
           - Automated system administration tasks using Bash, Python, and Ansible.
           - Supported a wide stack: Apache, Nginx, MySQL, PostgreSQL, Redis, Memcached, Docker, Kubernetes, VMware, KVM.
 
       - layout: left
         title: Earlier Experience (Condensed)
-        # link: https://www.rackspace.com/
-        # link_text: boringcompany.com
-        # sub_title: AWS Cloud Engineer II
-        # caption: September 2017 - August 2021
-        #quote: >
-        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
           - Cloud Sites Linux Administrator — Rackspace (2011–2013)
           - Email Support Specialist — Rackspace (2008–2011)
           - Technical Support Specialist — Wells Fargo Financial (2005–2008)
- 
-      # - layout: left
-      #   title: Rackspace
-      #   link: https://www.rackspace.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: Linux Systems Administrator II
-      #   caption: September 2017 - August 2021
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: |
-      #      - Managed and maintained Linux servers hosted on the Rackspace cloud platform, including configuration, monitoring, and troubleshooting.
-      #      - Collaborated with customers to understand their business requirements and provided tailored solutions to meet their needs within the Rackspace environment.
-      #      - Proficient in Linux system administration, including Operating System (CentOS, Ubuntu, Red Hat) and software installation, and system configuration in both physical and virtual environments.
-      #      - Administered user accounts, permissions, and access controls, ensuring security compliance and least privilege principles. Including working with SELinux, ACL, and FIPS.
-      #      - Strong knowledge of Linux server technologies such as Apache, Nginx, MySQL, mongodb, postresql , Lsync, Varnish, Redis, Memcached, webmin, cpanel, plex, and DNS.
-      #      - Monitored system performance and implemented performance tuning and optimization techniques to enhance system reliability and efficiency.
-      #      - Provided technical support and troubleshooting for Linux-related issues, responding to incidents and service requests in a timely manner.
-      #      - Planned and executed maintenance activities for linux systems in both dedicated and public cloud environments, including system updates, patches, and upgrades, to ensure system reliability and security.
-      #      - Experience with virtualization technologies such as VMware, KVM, Kuberneteis, Swarm and Docker.
-      #      - Documented procedures, configurations, and troubleshooting guides to facilitate knowledge transfer and ensure consistency in service delivery.
-      #      - Familiarity with Bash and python scripting languages and ansible automation tools and automated repeated tasks.
-      #      - Excellent problem-solving skills and ability to troubleshoot complex technical issues.
-      #      - Effective communication and collaboration skills.
 
-      # - layout: left
-      #   title: Rackspace
-      #   link: https://www.rackspace.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: Cloud Sites Linux Administrator
-      #   caption: June 2011 - June 2013
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: |
-      #     - Provided technical support for a hybrid Windows and Linux based hosting solution.
-      #     - Working on customer-based issues through thickets and phone calls, including assisting with migrations to other clusters, and security requests.
-      #     - Was a source of escalation on technical problems specalizing in wordpress, Drupal and Joomla.
-      #     - SME on Email setup and configuration setup and troubleshooting.
-      # - layout: left
-      #   title: Rackspace
-      #   link: https://www.rackspace.com/
-      #   # link_text: boringcompany.com
-      #   sub_title: Email Support Speciliist II
-      #   caption: July 2008 - June 2011
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: |
-      #     - Educated end user support on the inner workings of a large hybrid cloud email provider.
-      #     - Assisted with desktop service setup of mailboxes in a variety of different email clients.
-      #     - Troubleshoot a plethora of email related issues from calendar sharing, blackberry sync, DNS to mailbox corruption.
-      #     - Assisted customer with migration of mailbox data to ensure there was no missed data.
-      #     - Configured Multi domain routing for seamless email delivery across different email systems.
-      #     - Was a point of escalation for junior specialists and provided mentoring and training based on the needs of the support floor.
-      #     - Configured an troubleshoot mobile devices including Blackberry, iPhone, and Android devices.
-
-      # - layout: left
-      #   title: Wells Fargo Financial
-      #   link: https://www.com
-      #   # link_text: boringcompany.com
-      #   sub_title: Technical Support Speciliist II
-      #   caption: July 2008 - June 2011
-      #   #quote: >
-      #   #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-      #   description: |
-      #     - Desktop support of Windows-based systems including mailbox management, software install, and patching verification.
-      #     - Deploy, Troubleshoot, patch, install, legacy and systems.
-      #     - Worked with third party technicians on standard branch layout and legacy system configuration.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: Vaterott College
+        title: Vatterott College
         caption: 2003 - 2005
-        sub_title: Associate Degree in Computer Science and Network systems
-        quote: >
-           Established roots in 1969, Vatterrot College was a for carreer training center providing trade based eduction.
-        description: | # this will include new lines to allow paragraphs
-         - Despite working full time and raising a family, I was able to achieve academic excellence and make it onto the dean’s list during my time at Vatterott.  I made the most of my time and studies and would often stay late exploring personal and exploring other projects.
+        sub_title: Associate Degree in Computer Science and Network Systems
+        description: |
+          - Despite working full time and raising a family, I achieved academic excellence and made the dean’s list.
 
-  - title: Certification # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Certification
+    layout: list
     content:
       - layout: left
         title: AWS Cloud Architecture Associate
         caption: Sep 2018 - Sep 2026
-        description: | 
-          ![AWS Solutions Architect](images\aws-certified-solutions-architect-associate.png)
+        description: |
+          ![AWS Solutions Architect](images/aws-certified-solutions-architect-associate.png)
+
       - layout: left
         title: Scaled Agile SAFe Agilist
         caption: Feb 2023 - Feb 2024
-        description: | 
-          ![Scaled Agile Agilist](images\certified-safe-6-agilist.png)
+        description: |
+          ![Scaled Agile Agilist](images/certified-safe-6-agilist.png)
+
       - layout: left
         title: CompTIA A+
         caption: 2006
-        description: | 
-          ![COMPTIA A+](images\comptia-a-certification.6.png)
+        description: |
+          ![COMPTIA A+](images/comptia-a-certification.6.png)
+
       - layout: left
         title: Microsoft MCP in Windows XP
         caption: 2005
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
       - Toying and tinkering in my Homelab.
-      - Exploring learning Guitar, Bass and Banjo and music production.
+      - Learning guitar, bass, and banjo.
       - Visiting my adult children and spending time with my awesome wife.
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
@@ -294,4 +150,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
