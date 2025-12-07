@@ -135,9 +135,9 @@ content:
     layout: text
     content: |
       Alongside my interests in computers, networking, cloud services and automation my other interests and hobbies are:
-      - Toying and tinkering in my Homelab.
-      - Learning guitar, bass, and banjo.
-      - Visiting my adult children and spending time with my awesome wife.
+      - Homelabbing exploring new technologies, Kubernetes, and Artifical Intelligence.
+      - Music leanring guitar and exploring music compoistion and production.
+      - Family time with my adult children and spending time with my awesome wife.
 
 # Footer
 footer_show_references: true
