@@ -26,7 +26,7 @@ additional_links:
     url: https://www.marcread.com
 Word Resume:
   - title: Download Resume Word
-    icon: fas fa-file-docx
+    icon: fas fa-file-word
     url: /assets/Marc.Read-Resume-2025.docx
 PDF Resume:
   - title: Download Resume PDF
